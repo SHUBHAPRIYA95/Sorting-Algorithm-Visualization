@@ -1,5 +1,5 @@
-#  Sort Visualization
-:    
+A web application showcasing the inner workings of sorting algorithms.
+Time complexity of algorithm being visualized.
 * O(n²) - Bubble sort  
 * O(n²) - Selection sort  
 * O(n²) - Exchange sort 
